@@ -1,3 +1,3 @@
 # Hello-word
-just another repository.\r\n
+just another repository.
 are you ok?
